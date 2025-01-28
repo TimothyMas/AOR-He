@@ -1,10 +1,10 @@
 {
-    "log_dir": "logs_benzaldehyde",
-    "data_dir": "C:/Users/Admin/Desktop/Mag/Pomiary/Uv-VIS/Wstepne - hydroxynonenal",
+    "log_dir": "",
+    "data_dir": "",
     "file_pattern": "AOR5*_250127_*.txt", 
-    "output_plot_dir": "plots_benzaldehyde",
-    "output_params_dir": "params_benzaldehyde",
-    "output_summary_dir": "summary_benzaldehyde",
+    "output_plot_dir": "",
+    "output_params_dir": "",
+    "output_summary_dir": "",
     "delimiter": ",",
     "num_workers": 4
 }
