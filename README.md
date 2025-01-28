@@ -5,9 +5,6 @@ Repozytorium zawiera analizę kinetyczną enzymu AOR w obecności benzaldehydu (
 
 ## Zawartość repozytorium
 - **`scripts/`** – Skrypty w Pythonie służące do analizy danych i dopasowania modeli kinetycznych.
-- **`data/`** – Surowe dane z pomiarów spektroskopowych w formacie `.txt`.
-- **`results/`** – Wygenerowane wykresy i tabele z wynikami analizy.
-- **`report/`** – Pełny raport naukowy w formacie LaTeX, zawierający szczegółową interpretację wyników oraz bibliografię.
 
 ## Wymagania
 Do uruchomienia skryptów konieczne są następujące pakiety Python:
