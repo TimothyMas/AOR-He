@@ -1,0 +1,11 @@
+{
+    "data_dir": "C:/Users/Admin/Desktop/Mag/Pomiary/Uv-VIS/Wstepne - hydroxynonenal",
+    "file_pattern": "AORHe*_*.txt",
+    "delimiter": ",",
+    "output_plot_dir": "C:/Users/Admin/Desktop/Mag/Pomiary/Uv-VIS/Wstepne - hydroxynonenal/Plots",
+    "output_params_dir": "C:/Users/Admin/Desktop/Mag/Pomiary/Uv-VIS/Wstepne - hydroxynonenal/Regression_Parameters",
+    "output_summary_dir": "C:/Users/Admin/Desktop/Mag/Pomiary/Uv-VIS/Wstepne - hydroxynonenal/Summary",
+    "log_dir": "C:/Users/Admin/Desktop/Mag/Pomiary/Uv-VIS/Wstepne - hydroxynonenal/Logs",
+    "num_workers": 4
+  }
+  
